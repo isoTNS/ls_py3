@@ -20,4 +20,7 @@ Once you've successfully installed the 'ls' package (can import it), remove the 
 rm -r ls_py3
 ```
 
+Mike took the originial ls code from https://github.com/optimizers/nlpy/tree/master/nlpy/optimize/ls
+
+
 -- SAJANT ANAND
