@@ -15,6 +15,6 @@ classifiers = [
 requires-python = ">=3.7"
 dependencies = [
   "requests>2",
-  "numpy"
+  "numpy<=1.22"
 ]
 
