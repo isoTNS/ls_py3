@@ -1,5 +1,6 @@
 def configuration(parent_package='',top_path=None):
     import numpy
+    print("\n\n\n numpy version\n\n", numpy.__version__)
     from numpy.distutils.misc_util import Configuration
     from numpy.distutils.system_info import get_info, NotFoundError
     import os
